@@ -36,6 +36,5 @@ background-color:rgb(238, 228, 226);
 .col{
     display: grid;
   grid-template-columns: 40% 30% 40%;
-  grid-template-rows: 30% 20% 20% ;
   margin-left:-100px;
 }

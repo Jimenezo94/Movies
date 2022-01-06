@@ -14,10 +14,12 @@ export const data = [
     },
     {
       "id": 3,
-      "pelicula": "Matrix",
-      "descripcion": "Acosado por extraños recuerdos, la vida de Neo toma un giro inesperado al encontrarse, nuevamente, dentro de la Matrix",
-      "Imagen":"https://areajugones.sport.es/wp-content/uploads/2021/12/matrix.jpeg",
-      },
+      "pelicula": "El club de la pelea",
+      "descripcion": " Un empleado de oficina insomne, harto de su vida, se cruza con un vendedor peculiar. Ambos crean un club de lucha clandestino como forma de terapia y, poco a poco, la organización crece y sus objetivos toman otro rumbo.",
+      "Imagen":"https://beersandpolitics.com/wp-content/uploads/2017/01/club-de-la-lucha.jpg",
+     
+    },
+    
     {
       "id": 4,
       "pelicula": "Huye",
@@ -58,11 +60,10 @@ export const data = [
     },
     {
       "id": 10,
-      "pelicula": "El club de la pelea",
-      "descripcion": " Un empleado de oficina insomne, harto de su vida, se cruza con un vendedor peculiar. Ambos crean un club de lucha clandestino como forma de terapia y, poco a poco, la organización crece y sus objetivos toman otro rumbo.",
-      "Imagen":"https://beersandpolitics.com/wp-content/uploads/2017/01/club-de-la-lucha.jpg",
-     
-    },
+      "pelicula": "Matrix",
+      "descripcion": "Acosado por extraños recuerdos, la vida de Neo toma un giro inesperado al encontrarse, nuevamente, dentro de la Matrix",
+      "Imagen":"https://areajugones.sport.es/wp-content/uploads/2021/12/matrix.jpeg",
+      },
     {
       "id": 11,
       "pelicula": "abre los ojos",
