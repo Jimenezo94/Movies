@@ -1,0 +1,41 @@
+*{
+margin: auto;
+}
+
+nav {
+    background-color: #c8f3de;
+}
+
+.navbar-brand, a {
+    color:black;
+}
+
+.image{
+    background-color:rgb(179, 177, 175);
+    width: 300px;
+    height: 250px;
+    border-radius: 20px;
+    cursor: pointer;
+        }
+.card {
+background-color:rgb(238, 228, 226);
+ height: 380px;
+ width: 350px;
+ padding-bottom: 70px;
+}
+
+.btn{
+    background-color: #f59d9d; /* Green */
+    padding: 1px 12px;
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    border: 3px solid rgba(130, 121, 151, 0.075);
+    font-size: 14px;
+}
+.col{
+    display: grid;
+  grid-template-columns: 40% 30% 40%;
+  grid-template-rows: 30% 20% 20% ;
+  margin-left:-100px;
+}
